@@ -1,6 +1,6 @@
 # Emotion Recognition from EEG Using GAT with Four Electrodes
 
-EEG-based emotion classification using a Graph Attention Network (GAT) with four electrodes (FT7, FT8, T7, T8) on the SEED dataset. Evaluated under Leave-One-Subject-Out (LOSO), achieving 94.85% mean accuracy across 15 subjects.
+EEG-based emotion classification using a Graph Attention Network (GAT) with four electrodes (FT7, FT8, T7, T8) on the SEED dataset. Evaluated under Leave-One-Subject-Out (LOSO), achieving 95.38% mean accuracy across 15 subjects.
 
 ## Dataset
 
